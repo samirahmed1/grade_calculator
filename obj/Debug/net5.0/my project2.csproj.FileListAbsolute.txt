@@ -1,0 +1,16 @@
+D:\big work\tutorial\top 5\my C# dayle work\my project2\bin\Debug\net5.0\my project2.exe
+D:\big work\tutorial\top 5\my C# dayle work\my project2\bin\Debug\net5.0\my project2.deps.json
+D:\big work\tutorial\top 5\my C# dayle work\my project2\bin\Debug\net5.0\my project2.runtimeconfig.json
+D:\big work\tutorial\top 5\my C# dayle work\my project2\bin\Debug\net5.0\my project2.runtimeconfig.dev.json
+D:\big work\tutorial\top 5\my C# dayle work\my project2\bin\Debug\net5.0\my project2.dll
+D:\big work\tutorial\top 5\my C# dayle work\my project2\bin\Debug\net5.0\ref\my project2.dll
+D:\big work\tutorial\top 5\my C# dayle work\my project2\bin\Debug\net5.0\my project2.pdb
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.csprojAssemblyReference.cache
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.AssemblyInfoInputs.cache
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.AssemblyInfo.cs
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.csproj.CoreCompileInputs.cache
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.dll
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\ref\my project2.dll
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.pdb
+D:\big work\tutorial\top 5\my C# dayle work\my project2\obj\Debug\net5.0\my project2.genruntimeconfig.cache
